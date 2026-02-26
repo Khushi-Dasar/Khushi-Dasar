@@ -1,68 +1,51 @@
-# Hi there! I'm Khushi Dasar 👋 
+<h2 align="left">Hi 👋!My name is Khushi Dasar and I'm a Final Year B.Tech student specializing in AI & ML from Jabalpur, MP.</h2>
 
-### 💻 B.Tech Final Year | AI & ML Specialist | Aspiring Software Engineer
-[cite_start]I am a final-year Computer Science student at **Gyan Ganga Institute of Technology and Sciences**[cite: 3, 4, 12]. [cite_start]I am deeply passionate about bridging the gap between complex AI research and real-world applications, from satellite imagery to healthcare[cite: 15, 18].
+###
 
-- [cite_start]🚀 Currently working on **Agri Vision** for the IndiaAI Impact Gen-AI Hackathon[cite: 15].
-- [cite_start]🧠 Built an end-to-end **Brain Tumor Detection & Segmentation** web app[cite: 18, 19].
-- [cite_start]🏆 Multi-time hackathon winner, including **SIH 2023/25**, **NASA Space Apps**, and **Oracle Low-Code**[cite: 31, 32].
-- ✨ Known for bringing a mix of high-level tech focus and creative energy to every project.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushidasar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushidasar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-### 🛠️ Technical Toolkit
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | [cite_start]Python, C++, C, JavaScript, HTML/CSS [cite: 11] |
-| **AI / ML** | [cite_start]TensorFlow, Keras, PyTorch Lightning, Scikit-learn, OpenCV [cite: 13, 15] |
-| **Data Science** | [cite_start]Pandas, NumPy, Matplotlib, Seaborn, Power BI [cite: 13, 14] |
-| **Web & Backend** | [cite_start]React.js, Node.js, Flask, Streamlit [cite: 13] |
-| **Cloud & Tools** | [cite_start]AWS (GenAI Foundations), Git/GitHub, VS Code, Google Colab [cite: 14, 25] |
-| **Databases** | [cite_start]MySQL, MongoDB [cite: 14] |
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+</div>
 
-### 🌟 Featured Projects
+###
 
-#### 🛰️ [Agri Vision: See from Space, Grow with Grace](link-to-repo)
-[cite_start]Fine-tuned Geospatial Foundation Models (GeoFM) using **TerraTorch** to help map smallholder farms in India[cite: 16]. 
-* [cite_start]Developed a multi-sensor fusion pipeline for SAR and Multispectral data[cite: 17].
+<div align="left">
+  <a href="mailto:khushidasar8@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://linkedin.com/in/khushi-dasar">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://leetcode.com/u/khushidasar">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+</div>
 
-#### 🧠 [Brain Tumor Segmentation Web App](link-to-repo)
-[cite_start]A medical imaging tool using **U-Net** and **CNNs** to classify and segment MRI scans[cite: 18, 19].
-* [cite_start]Deployed via **Streamlit**, reducing diagnostic visualization time to just 2 minutes[cite: 20].
+###
 
-#### 📄 [AI Resume Screening System](link-to-repo)
-[cite_start]Developed during my **Tech Saksham AICTE Internship** to rank candidates using NLP (TF-IDF & Cosine Similarity)[cite: 21, 22].
+<br clear="both">
 
----
-
-### 🏆 Honors & Certifications
-* [cite_start]**Winner:** Oracle Low-Code/No-Code Development Competition[cite: 32].
-* [cite_start]**Runner-up:** POWER PITCH Competition (2nd Position)[cite: 33].
-* [cite_start]**Certified:** AWS Academy GenAI Foundations & CISCO Networking (CCNA 1-3)[cite: 25, 28].
-
----
-
-### 📬 Let's Connect!
-* [cite_start]**Email:** [khushidasar8@gmail.com](mailto:khushidasar8@gmail.com) [cite: 1]
-* [cite_start]**LinkedIn:** [linkedin.com/in/khushi-dasar](https://linkedin.com/in/khushi-dasar) [cite: 1]
-* [cite_start]**Location:** Jabalpur, MP, India 📍 [cite: 1, 12]
-
-
-
-<!--
-**Khushi-Dasar/Khushi-Dasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/khushidasar/khushidasar/output/snake.svg" alt="Snake animation" />
